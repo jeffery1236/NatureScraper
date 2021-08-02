@@ -14,10 +14,10 @@
 <!-- [![MIT License][license-shield]] -->
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-<p align="center">
-  <h3 align="center">Nature Scraper</h3>
+<p align="left">
+  <h3 align="left">Nature Scraper</h3>
 
-  <p align="center">
+  <p align="left">
     A Toolkit for scraping articles from Nature.com
     <br />
     <a href="https://github.com/jeffery1236/NatureScraper/issues">Report Bug</a>

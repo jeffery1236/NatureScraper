@@ -19,7 +19,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<!-- [![MIT License][license-shield]][license-url] -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -154,4 +154,4 @@ Distributed under the MIT License. See `LICENSE` for more information. -->
 <!-- [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge -->
 <!-- [license-url]: https://github.com/jeffery1236/NatureScraper/blob/master/LICENSE.txt -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://https://www.linkedin.com/in/jeffery-cao-siming/
+[linkedin-url]: https://www.linkedin.com/in/jeffery-cao-siming/

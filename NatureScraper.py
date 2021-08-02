@@ -1,5 +1,5 @@
 import requests
-import time, os, re
+import os, re
 from datetime import datetime
 from bs4 import BeautifulSoup
 import pdfkit
@@ -93,5 +93,5 @@ class Scraper:
 
         cleaned_title = re.sub(r'[,.:;@#?!&$]+ \ *', " ", article['Title'], flags=re.VERBOSE).strip()
         pdf_path = os.path.join(pdf_dir, cleaned_title + '.pdf')
+        print(f'Saving {pdf_path}')
         pdfkit.from_url(article['Url'], pdf_path)
-        print(pdf_path)

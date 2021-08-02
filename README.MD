@@ -56,7 +56,7 @@ It allows the user to search for article with the related search term within a d
     ```sh
     pip install -r requirements.txt
     ```
-3. Install additional dependencies for saving article as pdf
+3. Install additional dependencies for saving article as pdf </br>
     Debian/Ubuntu:
     ```sh
     apt-get install wkhtmltopdf
@@ -75,9 +75,14 @@ It allows the user to search for article with the related search term within a d
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Example:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+```python
+from NatureScraper import Scraper
+
+scraper = Scraper()
+articles = scraper.extract_nature_articles('2020-02-07', '2020-02-12', 'coronavirus', save_pdf=True, pdf_dir='./saved_articles')
+```
 
 
 

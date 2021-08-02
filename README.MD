@@ -15,17 +15,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 <!-- [![MIT License][license-shield]][license-url] -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <h3 align="center">Nature Scraper</h3>
 
@@ -43,7 +39,7 @@
 ## About The Project
 This is a simple scraper built with BeautifulSoup and pdfkit.</br>
 
-It allows the user to search for article with the related search term within a date range. The scraper then extracts content sentences and/or save the article as a pdf.
+It allows the user to search for article with the *related search term* within a *date range*. The scraper then extracts content sentences and/or *save the article as a pdf*.
 
 
 ## Installation

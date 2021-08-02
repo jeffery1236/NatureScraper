@@ -27,18 +27,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Nature Scraper</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Toolkit for scraping articles from Nature.com
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
     <a href="https://github.com/jeffery1236/NatureScraper/issues">Report Bug</a>
     ·
     <a href="https://github.com/jeffery1236/NatureScraper/issues">Request Feature</a>

@@ -1,12 +1,3 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
 <!-- PROJECT SHIELDS -->
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -14,18 +5,12 @@
 <!-- [![MIT License][license-shield]] -->
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-<p align="left">
-  <h3 align="left">Nature Scraper</h3>
-
-  <p align="left">
-    A Toolkit for scraping articles from Nature.com
-    <br />
-    <a href="https://github.com/jeffery1236/NatureScraper/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/jeffery1236/NatureScraper/issues">Request Feature</a>
-  </p>
-</p>
-
+# Nature Scraper
+A Toolkit for scraping articles from Nature.com
+<br />
+<a href="https://github.com/jeffery1236/NatureScraper/issues">Report Bug</a>
+·
+<a href="https://github.com/jeffery1236/NatureScraper/issues">Request Feature</a>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project

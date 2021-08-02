@@ -103,7 +103,5 @@ Distributed under the MIT License. See `LICENSE` for more information. -->
 [stars-url]: https://github.com/jeffery1236/NatureScraper/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jeffery1236/NatureScraper
 [issues-url]: https://github.com/jeffery1236/NatureScraper/issues
-[license-shield]: https://img.shields.io/github/license/jeffery1236/NatureScraper
+<!-- [license-shield]: https://img.shields.io/github/license/jeffery1236/NatureScraper -->
 <!-- [license-url]: https://github.com/jeffery1236/NatureScraper/blob/master/LICENSE.txt -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/jeffery-cao-siming/

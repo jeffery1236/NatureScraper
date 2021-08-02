@@ -12,7 +12,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 <!-- [![MIT License][license-shield]] -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 <p align="center">
   <h3 align="center">Nature Scraper</h3>

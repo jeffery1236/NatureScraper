@@ -25,7 +25,7 @@ It allows the user to search for article with the *related search term* within a
    ```sh
    git clone https://github.com/jeffery1236/Nature-Scraper.git
    ```
-2. Install Python dependencies (>= Python 3.5)
+2. Install Python dependencies (>= Python 3.6)
     ```sh
     pip install -r requirements.txt
     ```
